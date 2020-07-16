@@ -26,7 +26,7 @@ class Contact extends Component {
 
             <div className="ten columns flex-container">
                   
-           <aside className="">
+           
                <div className="">
 
 					   <h4>Contacto :)</h4>
@@ -40,7 +40,7 @@ class Contact extends Component {
 					   </p>
 				   </div>
              
-            </aside>
+           
 
                </div>
             </div>
