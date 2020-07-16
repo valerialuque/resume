@@ -60,40 +60,40 @@
     ],
     "skills":[
       {
-        "name":"Análisis Funcional / Técnico",
-        "level":"80%"
+        "name":"Análisis Funcional / Técnico"
+        
       },
       {
-        "name":"SCRUM",
-        "level":"70%"
+        "name":"SCRUM"
+       
       },
       {
-        "name":"C#",
-        "level":"90%"
+        "name":"C#"
+        
       },
       {
-        "name":".NET",
-        "level":"70%"
+        "name":".NET"
+        
       },
       {
-        "name":"Angular / React",
-        "level":"60%"
+        "name":"Angular / React"
+        
       },
       {
-        "name":"Ionic Framework",
-        "level":"70%"
+        "name":"Ionic Framework"
+       
       },
       {
-        "name":"Javascript",
-        "level":"60%"
+        "name":"Javascript"
+        
       },
       {
-        "name":"Genexus",
-        "level":"90%"
+        "name":"Genexus"
+        
       },
       {
-        "name":"SQL Server / MySQL",
-        "level":"95%"
+        "name":"SQL Server / MySQL"
+        
       }
     ]
   },
