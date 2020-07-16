@@ -2,14 +2,14 @@
   "main": {
     "name":"Valeria Luque",
     "occupation":"Analista Funcional y Programadora ",
-    "description":"asddg",
+    "description":"",
     "image":"profilepic.jpg",
     "bio":"Proactiva y autodidacta. Me adapto fácilmente a distintos entornos, tanto para trabajar en equipo como para hacerlo de forma autónoma. Tengo muy buena predisposición y fundamentalmente, me siento capacitada para resolver problemas. Nacida en C# y .NET, aventurera en el desarrollo Front-end. Hoy una amante del Análisis de Sistemas. Aficionada al cine, el café y los videojuegos. ",
     "contactmessage":"Contáctame :)",
     "email": "valeriapluque@gmail.com",
     "phone": "381-5392249",
     "address":{
-      "street":"(Av. Salta 565)",
+      "street":"Av. Salta 565",
       "city":"(San Miguel de Tucumán)",
       "state":"(Tucumán)",
       "zip": "(4000)"
