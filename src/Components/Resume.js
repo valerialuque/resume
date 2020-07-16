@@ -17,9 +17,8 @@ class Resume extends Component {
         </div>
       })
       var skills = this.props.data.skills.map(function(skills){
-        return <div key={skills.name}><h3>{skills.name}</h3>
-            <p className="info">{skills.level}<span>&bull;</span></p>
-          
+        return <div key={skills.name}><h4> <span>&bull;</span> {skills.name}</h4>
+         
         </div>
        
       })
@@ -67,11 +66,11 @@ class Resume extends Component {
             <p>{skillmessage}
             </p>
 
-			{/* 	<div className="bars">
+            <div className="bars">
 				   <ul className="skills">
 					  {skills}
 					</ul>
-				</div> */}
+				</div> 
 			</div>
       </div>
    </section>

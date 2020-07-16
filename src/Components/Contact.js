@@ -15,82 +15,43 @@ class Contact extends Component {
     }
 
     return (
-      <section id="contact">
-
-         <div className="row section-head">
+       
+           <section id="contact">
+      <div className="text-container">
+         <div className="row">
 
             <div className="two columns header-col">
-
-               <h1><span>Contacto:</span></h1>
-
+               <h1><span></span></h1>
             </div>
 
-            <div className="ten columns">
+            <div className="ten columns flex-container">
+                  
+           <aside className="">
+               <div className="">
 
-                  <p className="lead">{message}</p>
-
-            </div>
-
-         </div>
-
-         <div className="row">
-            <div className="eight columns">
-
-               <form action="" method="post" id="contactForm" name="contactForm">
-					<fieldset>
-
-                  <div>
-						   <label htmlFor="contactName">Nombre <span className="required">*</span></label>
-						   <input type="text" defaultValue="" size="35" id="contactName" name="contactName" onChange={this.handleChange}/>
-                  </div>
-
-                  <div>
-						   <label htmlFor="contactEmail">Email <span className="required">*</span></label>
-						   <input type="text" defaultValue="" size="35" id="contactEmail" name="contactEmail" onChange={this.handleChange}/>
-                  </div>
-
-                  <div>
-						   <label htmlFor="contactSubject">Asunto</label>
-						   <input type="text" defaultValue="" size="35" id="contactSubject" name="contactSubject" onChange={this.handleChange}/>
-                  </div>
-
-                  <div>
-                     <label htmlFor="contactMessage">Mensaje<span className="required">*</span></label>
-                     <textarea cols="50" rows="15" id="contactMessage" name="contactMessage"></textarea>
-                  </div>
-
-                  <div>
-                     <button className="submit">Enviar</button>
-                     <span id="image-loader">
-                        <img alt="" src="images/loader.gif" />
-                     </span>
-                  </div>
-					</fieldset>
-				   </form>
-
-           <div id="message-warning"> Alerta!</div>
-				   <div id="message-success">
-                  <i className="fa fa-check"></i>Tu mensaje fue enviado! Gracias :)<br />
-				   </div>
-           </div>
-
-
-            <aside className="four columns footer-widgets">
-               <div className="widget widget_contact">
-
-					   <h4>Dirección y Teléfono</h4>
+					   <h4>Contacto :)</h4>
 					   <p className="address">
 						   {name}<br />
 						   {street} <br />
 						   {city}, {state} {zip}<br />
 						   <span>{phone}</span>
+                     <span>{email}</span>
+                     <span>{message}</span>
 					   </p>
 				   </div>
-
              
             </aside>
-      </div>
+
+               </div>
+            </div>
+         </div>
    </section>
+
+         
+
+           
+     
+ 
     );
   }
 }
