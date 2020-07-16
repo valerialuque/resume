@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name":"Valeria Luque",
+    "occupation":"Analista Funcional y Programadora ",
+    "description":"",
+    "image":"profilepic.jpg",
+    "bio":"Proactiva y autodidacta. Me adapto fácilmente a distintos entornos, tanto para trabajar en equipo como para hacerlo de forma autónoma. Tengo muy buena predisposición y fundamentalmente, me siento capacitada para resolver problemas. Nacida en C# y .NET, aventurera en el desarrollo Front-end. Hoy una amante del Análisis de Sistemas. Aficionada al cine, el café y los videojuegos. ",
+    "contactmessage":"",
+    "email": "valeriapluque@gmail.com",
+    "phone": "381-5392249",
+    "address":{
+      "street":"Av. Salta 565",
+      "city":"San Miguel de Tucumán",
+      "state":"(Tucumán)",
+      "zip": "(4000)"
+    },
+    "website": "",
+    "resumedownload":"https://drive.google.com/u/0/uc?id=1q0WxrSJ2b10g5z1fjk4jlCgUKeYVqJyN&export=download",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/valeria.luque.52/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/valeria-luque/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/valerialuqe",
+        "className":"fa fa-instagram"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Tecnicatura Universitaria En Programación",
+        "degree":"U.T.N",
+        "graduated":"2018-2020",
+        "description":"Actualmente finalicé el cursado y tengo pendiente entregar el sistema correspondiente a la práctica profesional. Promedio actual: 9.15"
+      },
+      {
+        "school":"Business Analyst",
+        "degree":"Educación IT",
+        "graduated":"45hs",
+        "description":"Certificación en Análisis Funcional - Certificación en Scrum Fundamentos"
+      }
+    ],
+    "work":[
+      {
+        "company":"Analista Técnico Funcional",
+        "title":"Neuro Aplicaciones",
+        "years":"Feb. 2020 - Presente",
+        "description":"Análisis funcional de Negocio y diseño de estructuras para el Sistema de Gestión de la empresa SAT (Sociedad de Aguas del Tucumán). Realicé relevamientos, análisis y documentación de procesos integrales, requerimientos técnicos y requerimientos de negocio. Dentro de mis tareas debía obtener el compromiso de los usuarios involucrados, verificar el cumplimiento de los requerimientos desde el punto de vista del usuario y llevar a cabo un control de calidad. Tecnologías utilizadas: SQL Server, Genexus."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Análisis Funcional / Técnico",
+        "level":"80%"
+      },
+      {
+        "name":"SCRUM",
+        "level":"70%"
+      },
+      {
+        "name":"C#",
+        "level":"90%"
+      },
+      {
+        "name":".NET",
+        "level":"70%"
+      },
+      {
+        "name":"Angular / React",
+        "level":"60%"
+      },
+      {
+        "name":"Ionic Framework",
+        "level":"70%"
+      },
+      {
+        "name":"Javascript",
+        "level":"60%"
+      },
+      {
+        "name":"Genexus",
+        "level":"90%"
+      },
+      {
+        "name":"SQL Server / MySQL",
+        "level":"95%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+     
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Valeria Luque must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}

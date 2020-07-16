@@ -257,15 +257,6 @@ ul#nav li.current a { color: #F06000; }
 #resume h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
 }
-#resume h4 {
-   font: 20px 'opensans-bold', sans-serif;
-   color: #313131;
-	text-transform: uppercase;
-   letter-spacing: 2px;
-	font-weight: normal;
-   position: relative;
-	
-}
 
 #resume .header-col { padding-top: 9px; }
 #resume .main-col { padding-right: 10%; }
